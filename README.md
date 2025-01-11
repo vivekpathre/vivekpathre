@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vivek</h1>
 <h3 align="center">An enthusiastic Python Developer from India</h3>
 
-- 🌱 I’m currently learning **JavaScript, DevOps**
+- 🌱 I’m currently learning **Data Engineering tools, DevOps**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/vivekpathre/)
 
